@@ -55,14 +55,24 @@ https://github.com/user-attachments/assets/637a92ea-9ae4-4a3c-b04a-c1f81c9fddeb
 | OpenSim     | Musculoskeletal modeling and force analysis |
 | Excel / Python (optional) | Data visualization and comparison |
 
+### Folder Structure
+```
+📂ACL Injuries for female football players Analysis
+├── 📂 OpenSime Jumoung model      # The 3D mode used to demonstate jumping motion
+├── 📄 Project Report  # Decomentation for the steps and analysis results
+├── 📄 Project Flyer          
+└── README.md         # This file
+```
+
 ## Team Members
 
-- Mona Elkhouly
-- Hana Gamal
-- Engy Wael
-- Engy Mohamed
-- Menna Atef
-- Khadijia Zakaria
+- Mona Elkhouly@ MonaElhouly
+- Khadijia Zakaria @ KhadijaZakaria
+- Engy Mohamed @ EngyElsarta
+- Hana Gamal @HanaOuda05
+- Engy Wael @engy27005
+- Menna Atef @ Menna-atef22
+
 
 ## References
 
@@ -70,10 +80,3 @@ https://github.com/user-attachments/assets/637a92ea-9ae4-4a3c-b04a-c1f81c9fddeb
 2. J. Griffin et al., Acceleration and Running Profiles in Women’s Football, 2021.
 3. J. Kar & P. Quesada, ACL Strain Estimation Using Musculoskeletal Modeling, 2013.
 """
-
-# Save to file
-file_path = "/mnt/data/README_ACL_Project.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
-
-file_path
