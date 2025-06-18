@@ -1,0 +1,72 @@
+
+
+# ACL Injury Analysis in Female Football Players
+
+
+
+This project investigates the biomechanical causes behind the increased risk of non-contact ACL injuries in female football players. Using motion analysis tools — Kinovea for video-based tracking and OpenSim for musculoskeletal modeling — we compared joint behavior during high-risk movements (jumping, pivoting, and decelerating) between male and female players. Our goal was to identify movement patterns and physiological factors contributing to the heightened injury risk in women.
+
+## Motivation
+
+ACL injuries are 2–8 times more common in female athletes than in males. This project, completed as part of the SBEG 106: Introduction to Biomechanics course, seeks to:
+- Analyze biomechanical differences between genders during athletic movement
+- Explore hormonal and equipment-related factors affecting injury risk
+- Suggest preventive strategies tailored to female biomechanics
+
+## Methodology
+
+### 1. Data Collection
+- Recruited both male and female participants
+- Captured videos of three movements: landing, pivoting, and stopping
+- Placed visual markers on lower limbs for joint tracking
+
+### 2. Motion Analysis
+- Used Kinovea to extract joint angles (knee, hip, ankle) over time
+- Imported data into OpenSim to simulate muscle and ligament forces
+
+### 3. Comparative Analysis
+- Examined trends in knee valgus, joint flexion, and postural alignment
+- Compared force-angle profiles to assess ACL loading
+
+## Results Summary
+
+- Landing: Female players showed greater knee valgus and less knee flexion, increasing ACL tension.
+- Pivoting: Females tended to maintain a more flexed knee, raising risk during rotational loads.
+- Stopping: A more upright trunk posture was observed in females, reducing muscle engagement and increasing ligament stress.
+
+## Key Insights
+
+- Hormonal changes (e.g., estrogen peaks) may cause ligament laxity
+- Standard football cleats are not optimized for female anatomy, reducing stability
+- Movement pattern differences suggest a need for female-specific training and equipment
+
+## Tools & Technologies
+
+| Tool        | Purpose                                |
+|-------------|----------------------------------------|
+| Kinovea     | Motion tracking and joint angle extraction |
+| OpenSim     | Musculoskeletal modeling and force analysis |
+| Excel / Python (optional) | Data visualization and comparison |
+
+## Team Members
+
+- Mona Elkhouly
+- Hana Gamal
+- Engy Wael
+- Engy Mohamed
+- Menna Atef
+- Khadijia Zakaria
+
+## References
+
+1. G. John et al., Injury Prevention Strategies in Female Football Players, 2025.
+2. J. Griffin et al., Acceleration and Running Profiles in Women’s Football, 2021.
+3. J. Kar & P. Quesada, ACL Strain Estimation Using Musculoskeletal Modeling, 2013.
+"""
+
+# Save to file
+file_path = "/mnt/data/README_ACL_Project.md"
+with open(file_path, "w") as f:
+    f.write(readme_content)
+
+file_path
