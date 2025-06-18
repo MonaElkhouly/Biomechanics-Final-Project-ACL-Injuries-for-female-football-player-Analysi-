@@ -13,6 +13,13 @@ ACL injuries are 2–8 times more common in female athletes than in males. This 
 - Explore hormonal and equipment-related factors affecting injury risk
 - Suggest preventive strategies tailored to female biomechanics
 
+Feel free to watch video about out project and the ACL injury 
+
+
+
+https://github.com/user-attachments/assets/637a92ea-9ae4-4a3c-b04a-c1f81c9fddeb
+
+
 ## Methodology
 
 ### 1. Data Collection
