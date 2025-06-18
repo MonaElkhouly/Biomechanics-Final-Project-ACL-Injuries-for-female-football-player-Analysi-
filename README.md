@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/637a92ea-9ae4-4a3c-b04a-c1f81c9fddeb
 ## Team Members
 
 - Mona Elkhouly@ MonaElhouly
-- Khadijia Zakaria @ KhadijaZakaria
+- Khadija Zakaria @ KhadijaZakaria
 - Engy Mohamed @ EngyElsarta
 - Hana Gamal @HanaOuda05
 - Engy Wael @engy27005
